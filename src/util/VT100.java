@@ -34,5 +34,11 @@ public class VT100 {
 		System.out.println(ch);
 	}
 	
+	public static int forCount(int forCount) {
+		forCount++;
+		
+		return forCount;
+	}
+	
 	
 }
